@@ -1,0 +1,8 @@
+vim.cmd([[set termguicolors]])
+vim.cmd([[set winblend=0]])
+vim.cmd([[set wildoptions=pum]])
+vim.cmd([[let g:neosolarized_contrast = "normal"]])
+vim.cmd([[set pumblend=5]])
+vim.cmd([[set background=dark]])
+vim.cmd([[let g:neosolarized_termtrans = 1]])
+vim.cmd([[colorscheme NeoSolarized]])
